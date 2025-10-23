@@ -20,4 +20,4 @@ while get_x() != get_target_x() or get_y() != get_target_y():
     while get_direction() != objective:
         turn_left()
 
-destroy_voldemort()
+
