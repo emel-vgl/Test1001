@@ -18,6 +18,6 @@ while get_x() != get_target_x() or get_y() != get_target_y():
         objective = NORTH
 
     while get_direction() != objective:
-        turn_left()
+        turn_left(
 
 
